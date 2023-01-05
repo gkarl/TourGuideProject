@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GpsUtil.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GpsUtil.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rewards.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rewards.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TourGuideProjet.iml" filepath="$PROJECT_DIR$/.idea/TourGuideProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tourguide.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tourguide.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TripPricer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TripPricer.main.iml" />
+    </modules>
+  </component>
+</project>
