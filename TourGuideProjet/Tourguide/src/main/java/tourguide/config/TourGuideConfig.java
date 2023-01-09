@@ -1,4 +1,5 @@
-package tripPricer.config;
+package tourguide.config;
+
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -10,13 +11,13 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @Configuration
 @EnableSwagger2
-public class TripPricerConfig {
+public class TourGuideConfig {
 
     @Bean
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("tripPricer.controller"))
+                .apis(RequestHandlerSelectors.basePackage("tourguide.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }

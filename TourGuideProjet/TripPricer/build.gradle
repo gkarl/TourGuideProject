@@ -20,7 +20,7 @@ ext {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+	/*implementation 'org.springframework.boot:spring-boot-starter-actuator'*/
 	implementation group: 'org.javamoney', name: 'moneta', version: '1.4.2'
 	implementation group: 'com.jsoniter', name: 'jsoniter', version: '0.9.23'
 	implementation name:'TripPricer', ext:'jar'
